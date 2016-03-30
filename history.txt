@@ -1,0 +1,11 @@
+commit 7c46559a8058f71a7e4ead7c3d067a75cc147f08
+Author: Peter Park <peterpark@Peters-MacBook-Pro.local>
+Date:   Tue Mar 29 22:36:21 2016 -0400
+
+    finished
+
+commit 031a18c968680a9c9290dae0fbc0cf26e91c1744
+Author: Peter Park <peterpark@wpa191063.wireless.mcgill.ca>
+Date:   Tue Mar 29 17:36:35 2016 -0400
+
+    bug fixes
